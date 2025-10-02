@@ -1,0 +1,1332 @@
+aalis	AA2 AA0 L IY1 S
+aasa	AA0 AA1 S AA0
+aayusin	AA2 AA0 Y UW1 S IY0 N
+aba	AA0 B AA1
+abo	AA0 B OW1
+abokado	AA0 B OW0 K AA1 D OW0
+adobo	AA0 D OW1 B OW0
+africa	AA1 F R IY0 K AA0
+agila	AA1 G IY0 L AA0
+ahas	AA1 H AA0 S
+ahon	AA1 H OW0 N
+akbay	AA0 K B AA1 Y
+akin	AA1 K IY0 N
+aking	AA1 K IY0 NG
+aklat	AA0 K L AA1 T
+ako	AA0 K OW1
+akong	AA0 K OW1 NG
+ala-ala	AA0 L AA0 AA1 L AA0
+alaga	AA0 L AA1 G AA0
+alahas	AA0 L AA1 H AA0 S
+alak-alakan	AA0 L AA1 K AA0 L AA0 K AA1 N
+alalay	AA0 L AA1 L AY0
+alden	AA1 L D EH0 N
+alin	AA0 L IY1 N
+aling	AA1 L IY0 NG
+am	AA1 M
+ama	AA0 M AA1
+ambo	AA0 M B OW1
+ambon	AA0 M B OW1 N
+america	AA0 M EH1 R IY0 K AA0
+ami	AA1 M IY0
+amo	AA1 M OW0
+amoy	AA0 M OY1
+ampalaya	AA0 M P AA0 L AA0 Y AA1
+anak	AA0 N AA1 K
+ang	AA1 NG
+anghang	AA0 NG H AA1 NG
+anim	AA1 N IY0 M
+anino	AA0 N IY1 N OW0
+ano	AA0 N OW1
+anong	AA0 N OW1 NG
+antique	AA0 N T IY1 K EH0
+antok	AA0 N T OW1 K
+apat	AA1 P AA0 T
+apir	AA0 P IY1 R
+apo	AA0 P OW1
+apoy	AA0 P OY1
+aquino	AA0 K IY1 N OW0
+aral	AA1 R AA0 L
+araw	AA1 R AW0
+aray	AA0 R AY1
+artista	AA0 R T IY1 S T AA0
+asa	AA1 S AA0
+asam	AA0 S AA1 M
+asam-asam	AA0 S AA1 M AA0 S AA1 M
+asim	AA1 S IY0 M
+aso	AA1 S OW0
+asul	AA0 S UW1 L
+at	AA1 T
+ate	AA1 T EH0
+ating	AA1 T IY0 NG
+atis	AA1 T IY0 S
+avocado	AA0 V OW0 K AA1 D OW0
+away	AA1 W AY0
+ay	AY1
+ayaw	AA1 Y AW0
+ayoko	AA0 Y OW1 K OW0
+ayos	AA1 Y OW0 S
+ba	B AA1
+baba	B AA0 B AA1
+baba	B AA1 B AA0
+bababa	B AA2 B AA0 B AA1
+babae	B AA0 B AA1 EH0
+babalik	B AA2 B AA0 L IY1 K
+babasa	B AA2 B AA1 S AA0
+babata	B AA2 B AA1 T AA0
+baboy	B AA1 B OY0
+bacolod	B AA0 K OW1 L OW0 D
+bag	B AA1 G
+bagal	B AA1 G AA0 L
+bago	B AA1 G OW0
+bagong	B AA1 G OW0 NG
+bagoong	B AA0 G OW0 OW1 NG
+baha	B AA0 H AA1
+bahaghari	B AA0 H AA2 G H AA1 R IY0
+bahay	B AA1 H AY0
+baho	B AA1 H OW0
+bait	B AA0 IY1 T
+baka	B AA1 K AA0
+baka	B AA0 K AA1
+bakas	B AA0 K AA1 S
+bakit	B AA1 K IY0 T
+balakang	B AA0 L AA0 K AA1 NG
+balde	B AA0 L D EH1
+bali	B AA1 L IY0
+bali	B AA0 L IY1
+balik	B AA0 L IY1 K
+balikat	B AA0 L IY1 K AA0 T
+bambi	B AA1 M B IY0
+banda	B AA0 N D AA1
+banda	B AA1 N D AA0
+bandila	B AA0 N D IY1 L AA0
+bang	B AA1 NG
+banga	B AA0 NG AA1
+bangga	B AA0 NG G AA1
+bangin	B AA0 NG IY1 N
+bangka	B AA0 NG K AA1
+bangkang	B AA0 NG K AA1 NG
+bango	B AA0 NG OW1
+bangon	B AA1 NG OW0 N
+bangus	B AA0 NG UW1 S
+bansa	B AA0 N S AA1
+bansang	B AA0 N S AA1 NG
+bantay	B AA0 N T AY1
+bao	B AA1 OW0
+baon	B AA1 OW0 N
+baraha	B AA0 R AA1 H AA0
+barko	B AA0 R K OW1
+barya	B AA0 R Y AA1
+basa	B AA0 S AA1
+basa	B AA1 S AA0
+basahin	B AA0 S AA1 H IY0 N
+basbas	B AA0 S B AA1 S
+base	B AA1 S EH0
+baso	B AA1 S OW0
+basura	B AA0 S UW1 R AA0
+bata	B AA1 T AA0
+batang	B AA1 T AA0 NG
+bati	B AA1 T IY0
+bati	B AA0 T IY1
+batid	B AA0 T IY1 D
+batis	B AA1 T IY0 S
+bato	B AA0 T OW1
+batok	B AA1 T OW0 K
+bawang	B AA1 W AA0 NG
+bayani	B AA0 Y AA1 N IY0
+bebe	B EH1 B EH0
+bebet	B EH1 B EH0 T
+bebet	B EH1 B EH0 T
+benjamin	B EH0 N JH AA0 M IY1 N
+beses	B EH1 S EH0 S
+beso	B EH1 S OW0
+bibe	B IY1 B EH0
+bibo	B IY1 B OW0
+bicol	B IY1 K OW0 L
+bigas	B IY0 G AA1 S
+bigat	B IY0 G AA1 T
+bigla	B IY0 G L AA1
+biglang	B IY0 G L AA1 NG
+biik	B IY0 IY1 K
+bili	B IY0 L IY1
+bilis	B IY0 L IY1 S
+bilog	B IY0 L OW1 G
+bimbi	B IY1 M B IY0
+bimbo	B IH1 M B OW0
+binata	B IY0 N AA1 T AA0
+bingi	B IY0 NG IY1
+binigay	B IY0 N IY0 G AY1
+binili	B IY0 N IY0 L IY1
+binti	B IY0 N T IY1
+bisa	B IY1 S AA0
+bisig	B IY1 S IY0 G
+bitbit	B IY0 T B IY1 T
+biyahe	B IY0 Y AA1 H EH0
+biyernes	B IY0 Y EH1 R N EH0 S
+bobot	B OW1 B OW0 T
+bodega	B OW0 D EH1 G AA0
+bohol	B OW0 H OW1 L
+bola	B OW1 L AA0
+boses	B OW1 S EH0 S
+bota	B OW1 T AA0
+bote	B OW1 T EH0
+box	B AA1 K S
+bughaw	B UW0 G H AW1
+buhok	B UW0 H OW1 K
+bukas	B UW0 K AA1 S
+bukas	B UW1 K AA0 S
+bukid	B UW1 K IY0 D
+buko	B UW1 K OW0
+bukod	B UW0 K OW1 D
+bukong-buko	B UW1 K OW0 NG B UW1 K OW0
+buksan	B UW0 K S AA1 N
+bula	B UW0 L AA1
+bulacan	B UW0 L AA0 K AA1 N
+bulak	B UW1 L AA0 K
+bulaklak	B UW0 L AA0 K L AA1 K
+bulkan	B UW0 L K AA1 N
+bumaba	B UW0 M AA0 B AA1
+bumalik	B UW0 M AA0 L IY1 K
+bumangon	B UW0 M AA1 NG OW0 N
+bumata	B UW0 M AA1 T AA0
+bumbero	B UW0 M B EH1 R OW0
+bumibili	B UW0 M IY2 B IY0 L IY1
+bumili	B UW0 M IY0 L IY1
+bumilis	B UW0 M IY0 L IY1 S
+bumuo	B UW0 M UW0 OW1
+bundok	B UW0 N D OW1 K
+bunga	B UW1 NG AA0
+bunso	B UW0 N S OW1
+buo	B UW0 OW1
+bus	B UW1 S
+busog	B UW0 S OW1 G
+butas	B UW0 T AA1 S
+butas	B UW1 T AA0 S
+buti	B UW1 T IY0
+butik	B UW1 T IY0 K
+buto	B UW0 T OW1
+cabinet	K AA1 B IY0 N EH0 T
+cactus	K AA1 K T UW0 S
+cagayan	K AA0 G AA0 Y AA1 N
+camarines	K AA0 M AA0 R IY1 N EH0 S
+camera	K AA1 M EH0 R AA0
+camiguin	K AA0 M IY0 G IY1 N
+canada	K AA1 N AA0 D AA0
+canton	K AA0 N T OW1 N
+cara	K AA1 R AA0
+cardo	K AA1 R D OW0
+cariñosa	K AA0 R IY0 N Y OW1 S AA0
+carmen	K AA1 R M EH0 N
+cat	K AEH1 T
+catanduanes	K AA0 T AA0 N D UW0 AA1 N EH0 S
+cavite	K AA0 V IY1 T EH0
+comics	K OW1 M IY0 K S
+cotabato	K OW0 T AA0 B AA1 T OW0
+daan	D AA0 AA1 N
+daga	D AA0 G AA1
+dagat	D AA1 G AA0 T
+dahan-dahan	D AA2 H AA0 N D AA1 H AA0 N
+dahil	D AA1 H IY0 L
+dahilan	D AA0 H IY0 L AA1 N
+dahon	D AA1 H OW0 N
+daigdig	D AA0 IY0 G D IY1 G
+dala	D AA0 L AA1
+dalaga	D AA0 L AA1 G AA0
+dalampasigan	D AA0 L AA0 M P AA0 S IY1 G AA0 N
+dalandan	D AA0 L AA0 N D AA1 N
+dalawa	D AA0 L AA0 W AA1
+daliri	D AA0 L IY1 R IY0
+dami	D AA1 M IY0
+damit	D AA0 M IY1 T
+danilo	D AA0 N IY1 L OW0
+dapa	D AA0 P AA1
+dapat	D AA1 P AA0 T
+dasmariñas	D AA0 S M AA0 R IY1 N Y AA0 S
+dati	D AA1 T IY0
+dating	D AA1 T IY0 NG
+daw	D AW1
+dayuhan	D AA0 Y UW1 H AA0 N
+dexter	D EH1 K S T ER0 R
+diba	D IY1 B AA0
+diba	D IY0 B AA1
+dibdib	D IY0 B D IY1 B
+dikdik	D IY0 K D IY1 K
+dila	D IY1 L AA0
+dilat	D IY0 L AA1 T
+dilat	D IY1 L AA0 T
+dilaw	D IY0 L AW1
+din	D IY1 N
+dina	D IY1 N AA0
+dinala	D IY0 N AA0 L AA1
+dingding	D IY0 NG D IY1 NG
+disenyo	D IY0 S EH1 N Y OW0
+dito	D IY1 T OW0
+ditong	D IY1 T OW0 NG
+doctor	D OW1 K T OW0 R
+dodong	D OW1 D OW0 NG
+dondon	D OW1 N D OW0 N
+doon	D OW0 OW1 N
+dora	D OW1 R AA0
+doña	D OW1 N Y AA0
+dugo	D UW0 G OW1
+duhat	D UW1 H AA0 T
+dumapa	D UW0 M AA0 P AA1
+dumating	D UW0 M AA0 T IY1 NG
+dumila	D UW0 M IY1 L AA0
+dumugo	D UW0 M UW0 G OW1
+eba	EH1 B AA0
+edad	EH0 D AA1 D
+eh	EH1
+ehersisyo	EH0 H EH0 R S IY1 SH OW0
+elepante	EH0 L EH0 P AA1 N T EH0
+ema	EH1 M AA0
+enrique	EH0 N R IY1 K EH0
+epektibo	EH0 P EH0 K T IY1 B OW0
+eroplano	EH0 R OW0 P L AA1 N OW0
+esa	EH1 S AA0
+exam	EH0 K S AA1 M
+exit	EH1 K S IY0 T
+fan	F AA1 N
+fatima	F AA1 T IY0 M AA0
+felipe	F EH0 L IY1 P EH0
+felix	F EH1 L IY0 K S
+fernando	F EH0 R N AA1 N D OW0
+filipino	F IY0 L IY0 P IY1 N OW0
+fish	F IH1 SH
+folder	F OW1 L D EH0 R
+gabi	G AA0 B IY1
+gabi	G AA1 B IY0
+gabing	G AA0 B IY1 NG
+gagamba	G AA0 G AA0 M B AA1
+gaganapin	G AA2 G AA0 N AA0 P IY1 N
+gagawin	G AA2 G AA0 W IY1 N
+galing	G AA0 L IY1 NG
+galit	G AA0 L IY1 T
+galit	G AA1 L IY0 T
+galon	G AA0 L OW1 N
+galos	G AA1 L OW0 S
+gamit	G AA1 M IY0 T
+gamit	G AA0 M IY1 T
+gamot	G AA0 M OW1 T
+gamutin	G AA0 M UW0 T IY1 N
+ganda	G AA0 N D AA1
+gastos	G AA1 S T OW0 S
+gata	G AA0 T AA1
+gatas	G AA1 T AA0 S
+gawin	G AA0 W IY1 N
+gaya	G AA1 Y AA0
+giliw	G IY1 L IY0 W
+ginagamitan	G IY0 N AA2 G AA0 M IY1 T AA0 N
+ginisa	G IY0 N IY0 S AA1
+ginto	G IY0 N T OW1
+ginuhit	G IY0 N UW1 H IY0 T
+gisa	G IY0 S AA1
+gising	G IY0 S IY1 NG
+gising	G IY1 S IY0 NG
+gitara	G IY0 T AA1 R AA0
+gitna	G IY0 T N AA1
+gubat	G UW1 B AA0 T
+gulaman	G UW0 L AA1 M AA0 N
+gulat	G UW1 L AA0 T
+gulay	G UW1 L AY0
+gulong	G UW0 L OW1 NG
+gumala	G UW0 M AA1 L AA0
+gumaling	G UW0 M AA0 L IY1 NG
+guro	G UW0 R OW1
+gusali	G UW0 S AA1 L IY0
+gusto	G UW0 S T OW1
+gustong	G UW0 S T OW1 NG
+gutom	G UW0 T OW1 M
+gutom	G UW1 T OW0 M
+guyabano	G UW0 Y AA0 B AA1 N OW0
+habang	H AA1 B AA0 NG
+habilog	H AA2 B IY0 L OW1 G
+hakbang	H AA0 K B AA1 NG
+hala	H AA0 L AA1
+halaman	H AA0 L AA1 M AA0 N
+halik	H AA0 L IY1 K
+halika	H AA0 L IY1 K AA0
+halu-halo	H AA2 L UW0 H AA1 L OW0
+handaan	H AA0 N D AA1 AA0 N
+hapon	H AA1 P OW0 N
+hapon	H AA0 P OW1 N
+hari	H AA1 R IY0
+hasan	H AA0 S AA1 N
+hawak	H AA1 W AA0 K
+hawakan	H AA0 W AA1 K AA0 N
+hay	H AY1
+hayop	H AA1 Y OW0 P
+heto	H EH1 T OW0
+hikaw	H IY1 K AW0
+hilagang	H IY0 L AA1 G AA0 NG
+hilig	H IY1 L IY0 G
+hinay-hinay	H IY0 N AY1 H IY0 N AY1
+hindi	H IY0 N D IY1
+hinto	H IY0 N T OW1
+hipon	H IY1 P OW0 N
+hirap	H IY1 R AA0 P
+hirap	H IY0 R AA1 P
+hita	H IY1 T AA0
+hiwa	H IY1 W AA0
+hiya	H IY0 Y AA1
+hugis-diyamante	H UW1 G IY0 S D IY0 Y AA0 M AA1 N T EH0
+hugis-puso	H UW1 G IY0 S P UW1 S OW0
+hugis-tala	H UW1 G IY0 S T AA1 L AA0
+hula	H UW1 L AA0
+hulihan	H UW0 L IY0 H AA1 N
+humula	H UW0 M UW1 L AA0
+huwag	H UW0 W AA1 G
+huwebes	H UW0 W EH1 B EH0 S
+iba	IY0 B AA1
+iba-iba	IY0 B AA2 IY0 B AA1
+ibang	IY0 B AA1 NG
+ibat-iba	IY0 B AA1 T IY0 B AA1
+ibinaon	IY0 B IY0 N AA1 OW0 N
+ibon	IY1 B OW0 N
+idolo	IY1 D OW0 L OW0
+iguhit	IY0 G UW1 H IY0 T
+iisa	IY2 IY0 S AA1
+ikot	IY1 K OW0 T
+ilabas	IY0 L AA0 B AA1 S
+ilang	IY0 L AA1 NG
+ililigtas	IY0 L IY2 L IY0 G T AA1 S
+ilocos	IY0 L OW1 K OW0 S
+ilog	IY1 L OW0 G
+ilong	IY0 L OW1 NG
+inaantok	IY0 N AA2 AA0 N T OW1 K
+inabot	IY0 N AA0 B OW1 T
+ingat	IY1 NG AA0 T
+ingay	IY1 NG AY0
+inggit	IY0 NG G IY1 T
+ininom	IY0 N IY0 N OW1 M
+inukit	IY0 N UW1 K IY0 T
+inumin	IY0 N UW1 M IY0 N
+isa	IY0 S AA1
+isama	IY0 S AA1 M AA0
+isang	IY0 S AA1 NG
+isasama	IY0 S AA0 S AA1 M AA0
+isinama	IY0 S IY0 N AA1 M AA0
+isla	IY1 S L AA0
+itaas	IY0 T AA0 AA1 S
+itak	IY0 T AA1 K
+itay	IY0 T AY1
+itik	IY1 T IY0 K
+itim	IY0 T IY1 M
+ito	IY0 T OW1
+itong	IY0 T OW1 NG
+iwagayway	IY2 W AA0 G AY0 W AY1
+iyak	IY0 Y AA1 K
+iyong	IY0 Y OW1 NG
+jam	JH AA1 M
+janet	JH AA1 N EH0 T
+japan	JH AA0 P AA1 N
+jeep	JH IY1 P
+jessica	JH EH1 S IY0 K AA0
+jet	JH EH1 T
+jojo	JH OW1 JH OW0
+jordan	JH OW1 R D AA0 N
+joy	JH OY1
+imbento	IY0 M B EH1 N T OW0
+ka	K AA1
+kaarawan	K AA0 AA0 R AA0 W AA1 N
+kaba	K AA0 B AA1
+kabaitan	K AA0 B AA0 IY1 T AA0 N
+kagaya	K AA0 G AA1 Y AA0
+kahapon	K AA0 H AA1 P OW0 N
+kahel	K AA0 H EH1 L
+kahit	K AA1 H IY0 T
+kahoy	K AA1 H OY0
+kaibigan	K AA0 IY0 B IY1 G AA0 N
+kailan	K AY0 L AA1 N
+kain	K AA1 IY0 N
+kainan	K AA2 IY1 N AA0 N
+kakain	K AA0 K AA1 IY0 N
+kalabasa	K AA0 L AA0 B AA1 S AA0
+kalabaw	K AA0 L AA0 B AW1
+kalamay	K AA0 L AA1 M AY0
+kalapati	K AA0 L AA0 P AA1 T IY0
+kalawang	K AA0 L AA1 W AA0 NG
+kalifa	K AA0 L IY1 F AA0
+kaliwa	K AA0 L IY0 W AA1
+kalusugan	K AA0 L UW0 S UW1 G AA0 N
+kama	K AA1 M AA0
+kamatis	K AA0 M AA1 T IY0 S
+kamay	K AA0 M AY1
+kambal	K AA0 M B AA1 L
+kami	K AA0 M IY1
+kaming	K AA0 M IY1 NG
+kanan	K AA1 N AA0 N
+kandila	K AA0 N D IY1 L AA0
+kang	K AA1 NG
+kangkong	K AA0 NG K OW1 NG
+kanilang	K AA0 N IY0 L AA1 NG
+kanin	K AA1 N IY0 N
+kanina	K AA0 N IY1 N AA0
+kaniya	K AA0 N IY0 Y AA1
+kaniyang	K AA0 N IY0 Y AA1 NG
+kanya	K AA0 N Y AA1
+kanyang	K AA0 N Y AA1 NG
+kapatid	K AA0 P AA0 T IY1 D
+kapiraso	K AA0 P IY0 R AA1 S OW0
+karayom	K AA0 R AA1 Y OW0 M
+kasal	K AA0 S AA1 L
+kasama	K AA0 S AA1 M AA0
+kasi	K AA0 S IY1
+kasuy	K AA0 S UWY1
+katangian	K AA0 T AA0 NG IY1 AA0 N
+kati	K AA0 T IY1
+kawali	K AA0 W AA1 L IY0
+kawawa	K AA0 W AA1 W AA0
+kaway	K AA0 W AY1
+kay	K AY1
+kaya	K AA0 Y AA1
+kaya	K AA1 Y AA0
+kaysa	K AY1 S AA0
+kembot	K EH1 M B OW0 T
+keso	K EH1 S OW0
+kiko	K IY1 K OW0
+kilos	K IY1 L OW0 S
+kim	K IY1 M
+kinagat	K IY0 N AA0 G AA1 T
+kindat	K IY0 N D AA1 T
+kita	K IY1 T AA0
+kita	K IY0 T AA1
+ko	K OW1
+komiks	K OW1 M IY0 K S
+kong	K OW1 NG
+kotse	K OW1 T S EH0
+kuba	K UW1 B AA0
+kubo	K UW1 B OW0
+kuhanan	K UW0 H AA1 N AA0 N
+kuko	K UW0 K OW1
+kulay	K UW1 L AY0
+kulit	K UW0 L IY1 T
+kulot	K UW0 L OW1 T
+kumain	K UW0 M AA1 IY0 N
+kumakain	K UW0 M AA0 K AA1 IY0 N
+kumanta	K UW0 M AA0 N T AA1
+kumidlat	K UW0 M IY0 D L AA1 T
+kumikilos	K UW0 M IY2 K IY1 L OW0 S
+kumilos	K UW0 M IY1 L OW0 S
+kumulog	K UW0 M UW0 L OW1 G
+kuryente	K UW0 R Y EH1 N T EH0
+kuto	K UW1 T OW0
+kuwarto	K UW0 W AA1 R T OW0
+kuya	K UW1 Y AA0
+laba	L AA0 B AA1
+labada	L AA0 B AA1 D AA0
+labas	L AA0 B AA1 S
+labi	L AA1 B IY0
+labis	L AA1 B IY0 S
+labo	L AA1 B OW0
+lagari	L AA0 G AA1 R IY0
+lagas	L AA1 G AA0 S
+lagi	L AA1 G IY0
+laging	L AA1 G IY0 NG
+lagyan	L AA0 G Y AA1 N
+lahat	L AA0 H AA1 T
+lakad	L AA1 K AA0 D
+lakas	L AA0 K AA1 S
+laki	L AA0 K IY1
+laking	L AA0 K IY1 NG
+lalabas	L AA2 L AA0 B AA1 S
+lalakarin	L AA2 L AA0 K AA1 R IY0 N
+lalaki	L AA0 L AA1 K IY0
+lalaki	L AA0 L AA0 K IY1
+lalaking	L AA0 L AA1 K IY0 NG
+lalangoy	L AA2 L AA0 NG OY1
+lalawigan	L AA0 L AA0 W IY1 G AA0 N
+laman	L AA0 M AA1 N
+lamang	L AA0 M AA1 NG
+lang	L AA1 NG
+langgam	L AA0 NG G AA1 M
+langis	L AA0 NG IY1 S
+langit	L AA1 NG IY0 T
+langoy	L AA0 NG OW1 Y
+lansones	L AA0 N S OW1 N EH0 S
+lapag	L AA0 P AA1 G
+lapis	L AA1 P IY0 S
+laro	L AA0 R OW1
+laruan	L AA0 R UW0 AA1 N
+lasa	L AA1 S AA0
+laso	L AA1 S OW0
+lata	L AA1 T AA0
+lawa	L AA1 W AA0
+laya	L AA1 Y AA0
+layo	L AA1 Y OW0
+layo	L AA0 Y OW1
+leeg	L EH0 EH1 G
+libangan	L IY2 B AA1 NG AA0 N
+libro	L IY0 B R OW1
+ligo	L IY1 G OW0
+liham	L IY1 H AA0 M
+liit	L IY0 IY1 T
+likod	L IY0 K OW1 D
+likot	L IY0 K OW1 T
+lila	L IY1 L AA0
+lilibangin	L IY0 L IY0 B AA0 NG IY1 N
+liliit	L IY2 L IY0 IY1 T
+lima	L IY0 M AA1
+linggo	L IY0 NG G OW1
+linggong	L IY0 NG G OW1 NG
+linis	L IY1 N IY0 S
+lita	L IY1 T AA0
+litrato	L IY0 T R AA1 T OW0
+lola	L OW1 L AA0
+lolo	L OW1 L OW0
+loob	L OW0 OW1 B
+lugar	L UW0 G AA1 R
+luma	L UW1 M AA0
+lumabas	L UW0 M AA0 B AA1 S
+lumakad	L UW0 M AA1 K AA0 D
+lumaki	L UW0 M AA0 K IY1
+lumangoy	L UW0 M AA0 NG OY1
+lumiit	L UW0 M IY0 IY1 T
+lumundag	L UW0 M UW0 N D AA1 G
+lundag	L UW0 N D AA1 G
+lunes	L UW1 N EH0 S
+lungkot	L UW0 NG K OW1 T
+lungsod	L UW0 NG S OW1 D
+luntian	L UW0 N T IY1 AA0 N
+luto	L UW1 T OW0
+luto	L UW0 T OW1
+luto-lutuan	L UW0 T OW1 L UW0 T UW0 AA1 N
+lutuin	L UW0 T UW1 IY0 N
+luzon	L UW0 Z OW1 N
+maaamo	M AA0 AA0 AA1 M OW0
+maaari	M AA0 AA0 AA1 R IY0
+maalat	M AA0 AA1 L AA0 T
+maamo	M AA0 AA1 M OW0
+maanghang	M AA0 AA0 NG H AA1 NG
+maasim	M AA0 AA1 S IY0 M
+mababa	M AA0 B AA1 B AA0
+mababait	M AA0 B AA0 B AA0 IY1 T
+mababasa	M AA0 B AA0 B AA1 S AA0
+mabagal	M AA0 B AA1 G AA0 L
+mabaho	M AA0 B AA1 H OW0
+mabait	M AA0 B AA0 IY1 T
+mabangis	M AA0 B AA0 NG IY1 S
+mabango	M AA0 B AA0 NG OW1
+mabasa	M AA0 B AA1 S AA0
+mabasa	M AA0 B AA0 S AA1
+mabibili	M AA0 B IY2 B IY0 L IY1
+mabibilis	M AA0 B IY0 B IY0 L IY1 S
+mabigat	M AA0 B IY0 G AA1 T
+mabilis	M AA0 B IY0 L IY1 S
+mabisa	M AA0 B IY1 S AA0
+mabo	M AA1 B OW0
+mabuti	M AA0 B UW1 T IY0
+mabuto	M AA0 B UW0 T OW1
+macapuno	M AA0 K AA0 P UW0 N OW1
+madalas	M AA0 D AA0 L AA1 S
+madali	M AA0 D AA0 L IY1
+madaling	M AA0 D AA0 L IY1 NG
+madiin	M AA0 D IY0 IY1 N
+madilim	M AA0 D IY0 L IY1 M
+madumi	M AA0 D UW0 M IY1
+mag	M AA1 G
+mag-aral	M AA0 G AA1 R AA0 L
+mag-artista	M AA0 G AA0 R T IY1 S T AA0
+mag-away	M AA0 G AA1 W AY0
+mag-imbento	M AA0 G IY0 M B EH1 N T OW0
+mag-ingat	M AA0 G IY1 NG AA0 T
+mag-isa	M AA0 G IY0 S AA1
+magaan	M AA0 G AA0 AA1 N
+magaganap	M AA0 G AA2 G AA0 N AA1 P
+magagandang	M AA0 G AA0 G AA0 N D AA1 NG
+magalang	M AA0 G AA1 L AA0 NG
+magaling	M AA0 G AA0 L IY1 NG
+magalit	M AA0 G AA1 L IY0 T
+maganda	M AA0 G AA0 N D AA1
+magastos	M AA0 G AA1 S T OW0 S
+magawa	M AA0 G AA0 W AA1
+magbasa	M AA0 G B AA0 S AA1
+magbukas	M AA0 G B UW0 K AA1 S
+magdadala	M AA0 G D AA2 D AA0 L AA1
+magiliw	M AA0 G IY1 L IW0
+maging	M AA0 G IY1 NG
+magkaiba	M AA0 G K AA0 IY0 B AA1
+magkaibigan	M AA0 G K AA0 IY0 B IY1 G AA0 N
+magkakalapit	M AA0 G K AA2 K AA0 L AA0 P IY1 T
+magkakapatid	M AA0 G K AA2 K AA0 P AA0 T IY1 D
+magkamukhang-magkamukha	M AA2 G K AA0 M UW0 K H AA1 NG M AA2 G K AA0 M UW0 K H AA1
+magkasakit	M AA0 G K AA0 S AA0 K IY1 T
+magkasalungat	M AA0 G K AA1 S AA0 L UW0 NG AA1 T
+magkikita	M AA0 G K IY0 K IY1 T AA0
+maglalaba	M AA0 G L AA2 L AA0 B AA1
+maglalaro	M AA0 G L AA2 L AA0 R OW1
+maglaro	M AA0 G L AA0 R OW1
+magluto	M AA0 G L UW1 T OW0
+magtaas	M AA0 G T AA0 AA1 S
+magtanggol	M AA0 G T AA0 NG G OW1 L
+magtapon	M AA0 G T AA1 P OW0 N
+magulang	M AA0 G UW1 L AA0 NG
+magutom	M AA0 G UW1 T OW0 M
+mahaba	M AA0 H AA1 B AA0
+mahal	M AA0 H AA1 L
+mahilig	M AA0 H IY1 L IY0 G
+mahina	M AA0 H IY1 N AA0
+mahirap	M AA0 H IY1 R AA0 P
+maingay	M AA0 IY1 NG AY0
+mainit	M AA0 IY1 N IY0 T
+maintindihan	M AA0 IY0 N T IY0 N D IY0 H AA1 N
+maipako	M AA0 IY0 P AA1 K OW0
+mais	M AA0 IY1 S
+maiwasan	M AA0 IY0 W AA1 S AA0 N
+makakain	M AA0 K AA0 K AA1 IY0 N
+makalabas	M AA0 K AA0 L AA0 B AA1 S
+makapal	M AA0 K AA0 P AA1 L
+makasakit	M AA0 K AA0 S AA0 K IY1 T
+makatas	M AA0 K AA0 T AA1 S
+makati	M AA0 K AA0 T IY1
+makikita	M AA0 K IY0 K IY1 T AA0
+makina	M AA1 K IY0 N AA0
+makintab	M AA0 K IY0 N T AA1 B
+makita	M AA0 K IY1 T AA0
+makukulit	M AA0 K UW0 K UW0 L IY1 T
+makulay	M AA0 K UW1 L AY0
+makulit	M AA0 K UW0 L IY1 T
+malabo	M AA0 L AA1 B OW0
+malacañang	M AA0 L AA0 K AA0 N Y AA1 NG
+malakas	M AA0 L AA0 K AA1 S
+malaki	M AA0 L AA0 K IY1
+malaking	M AA0 L AA0 K IY1 NG
+malambot	M AA0 L AA0 M B OW1 T
+malamig	M AA0 L AA0 M IY1 G
+malapit	M AA0 L AA1 P IY0 T
+malaya	M AA0 L AA1 Y AA0
+malayo	M AA0 L AA1 Y OW0
+mali	M AA0 L IY1
+maligaya	M AA0 L IY0 G AA1 Y AA0
+maliit	M AA0 L IY0 IY1 T
+malikot	M AA0 L IY0 K OW1 T
+maliligo	M AA0 L IY0 L IY1 G OW0
+malilikot	M AA0 L IY0 L IY0 K OW1 T
+malinis	M AA0 L IY1 N IY0 S
+maluluto	M AA0 L UW0 L UW1 T OW0
+malungkot	M AA0 L UW0 NG K OW1 T
+maluto	M AA0 L UW1 T OW0
+mam	M AA1 M
+mama	M AA1 M AA0
+mamamasyal	M AA0 M AA2 M AA0 SH AA1 L
+mamasa-masa	M AA0 M AA0 S AA1 M AA0 S AA1
+mamasyal	M AA0 M AA0 SH AA1 L
+mami	M AA1 M IY0
+man	M AA1 N
+mana	M AA1 N AA0
+manakit	M AA0 N AA0 K IY1 T
+mangga	M AA0 NG G AA1
+mani	M AA0 N IY1
+manika	M AA0 N IY1 K AA0
+manila	M AA0 N IY1 L AA0
+manok	M AA0 N OW1 K
+mansanas	M AA0 N S AA1 N AA0 S
+mantika	M AA0 N T IY1 K AA0
+mapagbigay	M AA0 P AA0 G B IY0 G AY1
+mapagtimpi	M AA0 P AA0 G T IY0 M P IY1
+mapait	M AA0 P AA0 IY1 T
+mapungay	M AA0 P UW1 NG AA0 Y
+marami	M AA0 R AA1 M IY0
+maraming	M AA0 R AA1 M IY0 NG
+marco	M AA1 R K OW0
+marka	M AA0 R K AA1
+martes	M AA0 R T EH1 S
+martilyo	M AA0 R T IY1 L Y OW0
+mas	M AA1 S
+masa	M AA1 S AA0
+masabi	M AA0 S AA1 B IY0
+masakit	M AA0 S AA0 K IY1 T
+masama	M AA0 S AA0 M AA1
+masarap	M AA0 S AA0 R AA1 P
+masaya	M AA0 S AA0 Y AA1
+masayahin	M AA0 S AA0 Y AA1 H IY0 N
+masayang	M AA0 S AA0 Y AA1 NG
+masayang-masaya	M AA0 S AA0 Y AA2 NG M AA0 S AA0 Y AA1
+masebo	M AA0 S EH1 B OW0
+masiba	M AA0 S IY1 B AA0
+masigla	M AA0 S IY0 G L AA1
+masikap	M AA0 S IY1 K AA0 P
+masikip	M AA0 S IY0 K IY1 P
+masipag	M AA0 S IY1 P AA0 G
+masisi	M AA0 S IY1 S IY0
+masisiba	M AA0 S IY0 S IY1 B AA0
+maso	M AA1 S OW0
+mata	M AA0 T AA1
+mataas	M AA0 T AA0 AA1 S
+mataba	M AA0 T AA0 B AA1
+matabang	M AA0 T AA0 B AA1 NG
+matagal	M AA0 T AA0 G AA1 L
+matalas	M AA0 T AA1 L AA0 S
+matalik	M AA0 T AA1 L IY0 K
+matamis	M AA0 T AA0 M IY1 S
+matao	M AA0 T AA1 OW0
+matapang	M AA0 T AA1 P AA0 NG
+matapat	M AA0 T AA0 P AA1 T
+matataas	M AA0 T AA0 T AA0 AA1 S
+materyales	M AA0 T EH0 R Y AA1 L EH0 S
+matipid	M AA0 T IY0 P IY1 D
+matulungin	M AA0 T UW0 L UW0 NG IY1 N
+matusok	M AA0 T UW1 S OW0 K
+matuto	M AA0 T UW1 T OW0
+maulan	M AA0 UW0 L AA1 N
+mausisa	M AA0 UW0 S IY1 S AA0
+max	M AA1 K S
+may	M AY1
+maya	M AA1 Y AA0
+mayamang	M AA0 Y AA1 M AA0 NG
+melon	M EH0 L OW1 N
+meron	M EH1 R OW0 N
+meryenda	M EH0 R Y EH1 N D AA0
+mesa	M EH1 S AA0
+mesi	M EH1 S IY0
+mexico	M EH1 K S IY0 K OW1
+mga	M AA0 NG AA1
+miko	M IY1 K OW0
+mimi	M IY1 M IY0
+minana	M IY0 N AA1 N AA0
+ming	M IY1 NG
+minsan	M IY1 N S AA0 N
+misa	M IY1 S AA0
+misis	M IY1 S IY0 S
+mismo	M IY1 S M OW0
+miso	M IY0 S OW1
+miyerkules	M IY0 Y EH1 R K UW0 L EH0 S
+mo	M OW1
+mong	M OW1 NG
+monika	M OW1 N IY0 K AA0
+moniko	M OW1 N IY0 K OW0
+mukha	M UW0 K AA1
+mula	M UW0 L AA1
+muli	M UW0 L IY1
+mumo	M UW1 M OW0
+muna	M UW1 N AA0
+mundo	M UW0 N D OW1
+munggo	M UW0 NG G OW1
+musmos	M UW0 S M OW1 S
+na	N AA1
+nababasa	N AA0 B AA0 B AA1 S AA0
+nabangga	N AA0 B AA0 NG G AA1
+nabasa	N AA0 B AA0 S AA1
+nabasa	N AA0 B AA1 S AA0
+nabasag	N AA0 B AA1 S AA0 G
+nabuo	N AA0 B UW0 OW1
+nadapa	N AA0 D AA0 P AA1
+nag-aral	N AA0 G AA1 R AA0 L
+nag-iisa	N AA0 G IY2 IY0 S AA1
+nagagalit	N AA0 G AA0 G AA1 L IY0 T
+nagagamit	N AA0 G AA0 G AA1 M IY0 T
+nagbabasa	N AA0 G B AA2 B AA0 S AA1
+nagbabati	N AA0 G B AA2 B AA0 T IY1
+nagbalik	N AA0 G B AA0 L IY1 K
+nagbebenta	N AA0 G B EH0 B EH1 N T AA0
+nagbigay	N AA0 G B IY0 G AY1
+nagdala	N AA0 G D AA0 L AA1
+nagdikdik	N AA0 G D IY0 K D IY1 K
+naghahanap	N AA0 G H AA2 H AA0 N AA1 P
+naging	N AA0 G IY1 NG
+nagising	N AA2 G IY0 S IY1 NG
+naglalakad	N AA0 G L AA2 L AA0 K AA1 D
+naglalaro	N AA0 G L AA2 L AA0 R OW1
+naglaro	N AA0 G L AA0 R OW1
+nagluto	N AA0 G L UW1 T OW0
+nagpaalam	N AA0 G P AA0 AA1 L AA0 M
+nagpapatalo	N AA0 G P AA2 P AA0 T AA1 L OW0
+nagpunta	N AA0 G P UW0 N T AA1
+nagsasabi	N AA0 G S AA0 S AA1 B IY0
+nagtakbuhan	N AA0 G T AA0 K B UW1 H AA0 N
+nagtanim	N AA0 G T AA0 N IY1 M
+nagugulat	N AA0 G UW0 G UW1 L AA0 T
+nagulat	N AA0 G UW1 L AA0 T
+nagutom	N AA0 G UW1 T OW0 M
+nagzuzumba	N AA0 G Z UW0 Z UW1 M B AA0
+nahihirapan	N AA0 H IY2 H IY0 R AA1 P AA0 N
+nahihiya	N AA0 H IY2 H IY0 Y AA1
+nahilo	N AA0 H IY1 L OW0
+naiiba	N AA0 IY2 IY0 B AA1
+nais	N AA1 IY0 S
+nakabili	N AA0 K AA0 B IY0 L IY1
+nakabukas	N AA0 K AA0 B UW0 K AA1 S
+nakahiga	N AA0 K AA0 H IY0 G AA1
+nakakapagod	N AA0 K AA2 K AA0 P AA1 G OW0 D
+nakakatawa	N AA0 K AA2 K AA0 T AA0 W AA1
+nakakatuwang	N AA0 K AA2 K AA0 T UW0 W AA1 NG
+nakakita	N AA0 K AA0 K IY1 T AA0
+nakangiti	N AA0 K AA0 NG IY0 T IY1
+nakapagbabasa	N AA0 K AA0 P AA0 G B AA2 B AA0 S AA1
+nakapila	N AA0 K AA0 P IY1 L AA0
+nakapunta	N AA0 K AA0 P UW0 N T AA1
+nakatira	N AA0 K AA0 T IY0 R AA1
+nakikilala	N AA0 K IY2 K IY0 L AA1 L AA0
+nakikinig	N AA0 K IY2 K IY0 N IY1 G
+nakikita	N AA0 K IY0 K IY1 T AA0
+nakilala	N AA0 K IY0 L AA1 L AA0
+nakita	N AA0 K IY1 T AA0
+naku	N AA0 K UW1
+naligo	N AA0 L IY1 G OW0
+nalilimutan	N AA0 L IY2 L IY0 M UW1 T AA0 N
+nalulungkot	N AA0 L UW2 L UW0 NG K OW1 T
+naman	N AA0 M AA1 N
+namang	N AA0 M AA1 NG
+namin	N AA1 M IY0 N
+naming	N AA1 M IY0 NG
+nanay	N AA1 N AY0
+nang	N AA1 NG
+nangamoy	N AA0 NG AA0 M OW1 Y
+nangangailangan	N AA0 NG AA2 NG AA0 IY0 L AA1 NG AA0 N
+nanginig	N AA0 NG IY0 N IY1 G
+nanonood	N AA0 N OW2 N OW0 OW1 D
+napagod	N AA0 P AA1 G OW0 D
+napakaasim	N AA2 P AA0 K AA0 AA1 S IY0 M
+napakasaya	N AA2 P AA0 K AA0 S AA0 Y AA1
+napangiti	N AA2 P AA0 NG IY0 T IY1
+napapabilis	N AA0 P AA2 P AA0 B IY0 L IY1 S
+napapatibay	N AA0 P AA0 P AA0 T IY1 B AA0 Y
+napinturahan	N AA0 P IY0 N T UW0 R AA1 H AA0 N
+narito	N AA2 R IY0 T OW1
+nasa	N AA1 S AA0
+nasaan	N AA1 S AA0 AA0 N
+natakot	N AA0 T AA1 K OW0 T
+natapos	N AA0 T AA1 P OW0 S
+natatakot	N AA0 T AA0 T AA1 K OW0 T
+natuwa	N AA0 T UW0 W AA1
+naupuan	N AA0 UW0 P UW0 AA1 N
+nawala	N AA0 W AA0 L AA1
+nawasak	N AA0 W AA1 S AA0 K
+nene	N EH1 N EH0
+ng	N AA1 NG
+nga	NG AA1
+ngayon	NG AY0 OW1 N
+nginig	NG IY0 N IY1 G
+nginitian	NG IY0 N IY0 T IY0 AA1 N
+ngipin	NG IY1 P IY0 N
+ngiti	NG IY0 T IY1
+ngumiti	NG UW0 M IY0 T IY1
+ngunit	NG UW1 N IY0 T
+nguso	NG UW1 S OW0
+ni	N IY1
+nilagari	N IY0 L AA0 G AA1 R IY0
+nilapitan	N IY0 L AA0 P IY1 T AA0 N
+niluto	N IY0 L UW1 T OW0
+nina	N IY0 N AA1
+ninja	N IY1 N JH AA0
+ninyo	N IY0 N Y OW1
+nito	N IY0 T OW1
+niya	N IY0 Y AA1
+niyang	N IY0 Y AA1 NG
+niyog	N IY0 Y OW1 G
+niña	N IY1 N Y AA0
+niño	N IY1 N Y OW0
+noon	N OW0 OW1 N
+noong	N OW0 OW1 NG
+norte	N OW1 R T EH0
+nunal	N UW0 N AA1 L
+o	OW1
+okoy	OW1 K OW0 Y
+okra	OW1 K R AA0
+oo	OW1 OW0
+opo	OW1 P OW0
+oso	OW1 S OW0
+ospital	OW0 S P IY0 T AA1 L
+otap	OW1 T AA0 P
+pa	P AA1
+paa	P AA0 AA1
+paaralan	P AA2 AA0 R AA0 L AA1 N
+paborito	P AA0 B OW0 R IY1 T OW0
+paboritong	P AA0 B OW0 R IY1 T OW0 NG
+padala	P AA0 D AA0 L AA1
+pader	P AA0 D EH1 R
+pag-aaway	P AA0 G AA0 AA1 W AY0
+pag-ibig	P AA0 G IY1 B IY0 G
+pagawaan	P AA2 G AA0 W AA1 AA0 N
+pagbasa	P AA0 G B AA1 S AA0
+pagbuo	P AA0 G B UW0 OW1
+paggalaw	P AA0 G G AA0 L AW1
+paggawa	P AA0 G G AA0 W AA1
+paghambingin	P AA0 G H AA1 M B IY0 NG IY1 N
+pagkain	P AA0 G K AA1 IY0 N
+pagkalipas	P AA0 G K AA0 L IY1 P AA0 S
+pagkanta	P AA0 G K AA0 N T AA1
+pagod	P AA0 G OW1 D
+pagod	P AA1 G OW0 D
+pagong	P AA0 G OW1 NG
+pagpapawis	P AA0 G P AA2 P AA0 W IY1 S
+pagsayaw	P AA0 G S AA0 Y AA1 W
+pagtaas	P AA0 G T AA0 AA1 S
+pagtunaw	P AA0 G T UW1 N AW0
+pagzu-zumba	P AA1 G Z UW0 Z UW1 M B AA0
+pahingi	P AA0 H IY0 NG IY1
+pakaliwa	P AA0 K AA0 L IY0 W AA1
+pakanan	P AA0 K AA1 N AA0 N
+pako	P AA1 K OW0
+pakwan	P AA0 K W AA1 N
+pala	P AA0 L AA1
+palabas	P AA0 L AA0 B AA1 S
+palagi	P AA0 L AA1 G IY0
+palaka	P AA0 L AA0 K AA1
+palaman	P AA0 L AA0 M AA1 N
+palda	P AA1 L D AA0
+palengke	P AA0 L EH1 NG K EH0
+pambansang	P AA0 M B AA0 N S AA1 NG
+pamilya	P AA0 M IY1 L Y AA0
+panaginip	P AA0 N AA0 G IY1 N IY0 P
+pananalita	P AA0 N AA2 N AA0 L IY0 T AA1
+panatag	P AA0 N AA1 T AA0 G
+pandan	P AA0 N D AA1 N
+pangako	P AA0 NG AA1 K OW0
+pangalan	P AA0 NG AA1 L AA0 N
+pangarap	P AA0 NG AA1 R AA0 P
+pangulo	P AA0 NG UW1 L OW0
+pantay	P AA0 N T AY1
+papasok	P AA2 P AA1 S OW0 K
+papaya	P AA0 P AA1 Y AA0
+papel	P AA0 P EH1 L
+paraan	P AA0 R AA0 AA1 N
+parang	P AA1 R AA0 NG
+parañaque	P AA0 R AA0 N Y AA1 K EH0
+parihaba	P AA0 R IY0 H AA0 B AA1
+parisukat	P AA0 R IY0 S UW0 K AA1 T
+parke	P AA0 R K EH1
+pasayahin	P AA0 S AA0 Y AA0 H IY1 N
+pasko	P AA0 S K OW1
+patayin	P AA0 T AA0 Y IY1 N
+pati	P AA0 T IY1
+pating	P AA0 T IY1 NG
+patong	P AA1 T OW0 NG
+payong	P AA1 Y OW0 NG
+pera	P EH1 R AA0
+pero	P EH1 R OW0
+pikit	P IY0 K IY1 T
+piko	P IY0 K OW1
+pila	P IY1 L AA0
+pili	P IY1 L IY0
+pilipinas	P IY0 L IY0 P IY1 N AA0 S
+pina	P IY1 N AA0
+pinagbiyak	P IY0 N AA0 G B IY0 Y AA1 K
+pinakamabait	P IY2 N AA0 K AA0 M AA0 B AA0 IY1 T
+pinakamagaling	P IY2 N AA0 K AA0 M AA0 G AA0 L IY1 NG
+pinakamatalino	P IY2 N AA0 K AA0 M AA0 T AA0 L IY1 N OW0
+pinakatalentado	P IY2 N AA0 K AA0 T AA0 L EH0 N T AA1 D OW0
+pindot	P IY0 N D OW1 T
+pinggan	P IY0 NG G AA1 N
+pinto	P IY0 N T OW1
+pintuan	P IY0 N T UW1 AA0 N
+pinukpok	P IY0 N UW0 K P OW1 K
+pinutol	P IY0 N UW1 T OW0 L
+pista	P IY0 S T AA1
+pitaka	P IY0 T AA1 K AA0
+pito	P IY0 T OW1
+piña	P IY0 N Y AA1
+po	P OW1
+pong	P OW1 NG
+pukpok	P UW0 K P OW1 K
+pula	P UW0 L AA1
+pulis	P UW0 L IY1 S
+pulubi	P UW0 L UW1 B IY0
+pumapasok	P UW0 M AA0 P AA1 S OW0 K
+pumila	P UW0 M IY1 L AA0
+pumirma	P UW0 M IY0 R M AA1
+pumunta	P UW0 M UW0 N T AA1
+pumutok	P UW0 M UW0 T OW1 K
+puno	P UW0 N OW1
+puno	P UW1 N OW0
+punta	P UW0 N T AA1
+pupunta	P UW2 P UW0 N T AA1
+pupunuin	P UW2 P UW0 N UW0 IY1 N
+puring	P UW0 R IY1 NG
+puro	P UW1 R OW0
+pusa	P UW1 S AA0
+puso	P UW1 S OW0
+puti	P UW0 T IY1
+puto	P UW1 T OW0
+putok	P UW0 T OW1 K
+puwede	P UW0 W EH1 D EH0
+puwit	P UW0 W IY1 T
+quezon	K EH1 Z OW0 N
+quintin	K IY0 N T IY1 N
+quirino	K IY0 R IY1 N OW0
+rambutan	R AA0 M B UW0 T AA1 N
+raquel	R AA0 K EH1 L
+raw	R AW1
+regalo	R EH0 G AA1 L OW0
+relo	R EH0 L OW1
+relyeno	R EH0 L Y EH1 N OW0
+resibo	R EH0 S IY1 B OW0
+retaso	R EH0 T AA1 S OW0
+rex	R EH1 K S
+reyna	R EY1 N AA0
+rico	R IY1 K OW0
+riles	R IY1 L EH0 S
+rin	R IY1 N
+rizal	R IY0 Z AA1 L
+rosas	R OW1 S AA0 S
+rurok	R UW1 R OW0 K
+sa	S AA1
+saan	S AA0 AA1 N
+sab	S AA1 B
+saba	S AA0 B AA1
+sabado	S AA1 B AA0 D OW0
+sabaw	S AA0 B AW1
+sabay	S AA0 B AY1
+sabi	S AA1 B IY0
+sabi-sabi	S AA0 B IY1 S AA0 B IY1
+sabihin	S AA0 B IY1 H IY0 N
+saging	S AA1 G IY0 NG
+sago	S AA0 G OW1
+sagot	S AA0 G OW1 T
+saka	S AA1 K AA0
+saka	S AA0 K AA1
+sakay	S AA0 K AY1
+sakim	S AA0 K IY1 M
+sakin	S AA1 K IY0 N
+sakit	S AA0 K IY1 T
+saklay	S AA0 K L AY1
+sakong	S AA1 K OW0 NG
+saksi	S AA0 K S IY1
+saktan	S AA0 K T AA1 N
+sakura	S AA2 K UW0 R AA1
+salamat	S AA0 L AA1 M AA0 T
+salamin	S AA0 L AA0 M IY1 N
+salbabida	S AA0 L B AA0 B IY1 D AA0
+sam	S AA1 M
+sama	S AA1 M AA0
+sama	S AA0 M AA1
+sama-sama	S AA2 M AA0 S AA1 M AA0
+samba	S AA0 M B AA1
+sampu	S AA0 M P UW1
+sana	S AA1 N AA0
+sanang	S AA1 N AA0 NG
+sandal	S AA0 N D AA1 L
+sangga	S AA0 NG G AA1
+sanggol	S AA0 NG G OW1 L
+santo	S AA1 N T OW0
+sapatos	S AA0 P AA1 T OW0 S
+sapot	S AA1 P OW0 T
+sarap	S AA0 R AA1 P
+sari-sari	S AA2 R IY0 S AA1 R IY0
+sarili	S AA0 R IY1 L IY0
+sasakyan	S AA0 S AA0 K Y AA1 N
+sasama	S AA0 S AA1 M AA0
+sasama	S AA2 S AA0 M AA1
+sasama-sama	S AA0 S AA2 M AA0 S AA1 M AA0
+sasamba	S AA2 S AA0 M B AA1
+sawa	S AA0 W AA1
+sawi	S AA0 W IY1
+saya	S AA0 Y AA1
+sayang	S AA1 Y AA0 NG
+seb	S EH1 B
+sebo	S EH1 B OW0
+semento	S EH0 M EH1 N T OW0
+si	S IY1
+siba	S IY1 B AA0
+sibuyas	S IY0 B UW1 Y AA0 S
+sigarilyo	S IY0 G AA0 R IY1 L Y OW0
+sige	S IY0 G EH1
+sigla	S IY0 G L AA1
+sigurado	S IY0 G UW0 R AA1 D OW0
+sikat	S IY1 K AA0 T
+sikat	S IY0 K AA1 T
+sikip	S IY0 K IY1 P
+siko	S IY1 K OW0
+siksik	S IY0 K S IY1 K
+siksikan	S IY0 K S IY1 K AA0 N
+sila	S IY0 L AA1
+silang	S IY0 L AA1 NG
+simba	S IY0 M B AA1
+simo	S IY1 M OW0
+simoy	S IY1 M OY0
+simula	S IY0 M UW0 L AA1
+singsing	S IY0 NG S IY1 NG
+sinimulan	S IY0 N IY0 M UW0 L AA1 N
+sino	S IY1 N OW0
+sinusundang	S IY0 N UW1 S UW0 N D AA1 NG
+sipa	S IY1 P AA0
+sipsip	S IY0 P S IY1 P
+sisi	S IY1 S IY0
+sisimba	S IY2 S IY0 M B AA1
+sita	S IY1 T AA0
+siya	S IY0 Y AA1
+siyam	S IY0 Y AA1 M
+siyang	S IY0 Y AA1 NG
+subo	S UW1 B OW0
+subsob	S UW0 B S OW1 B
+sugal	S UW0 G AA1 L
+sugat	S UW1 G AA0 T
+suka	S UW1 K AA0
+suklay	S UW0 K L AY1
+sulat	S UW1 L AA0 T
+sumabay	S UW0 M AA0 B AY1
+sumakay	S UW0 M AA0 K AY1
+sumama	S UW0 M AA1 M AA0
+sumandal	S UW0 M AA0 N D AA1 L
+sumayaw	S UW0 M AA0 Y AW1
+sumiksik	S UW0 M IY0 K S IY1 K
+sumipa	S UW0 M IY1 P AA0
+sumo	S UW1 M OW0
+sumubo	S UW0 M UW1 B OW0
+sumubsob	S UW0 M UW0 B S OW1 B
+sumuko	S UW0 M UW1 K OW0
+sumulat	S UW0 M UW1 L AA0 T
+sumusuko	S UW0 M UW0 S UW1 K OW0
+sumusunod	S UW0 M UW2 S UW0 N OW1 D
+suntok	S UW0 N T OW1 K
+suot	S UW0 OW1 T
+sur	S UW1 R
+susi	S UW1 S IY0
+susubo	S UW0 S UW1 B OW0
+taas	T AA0 AA1 S
+taasan	T AA0 AA0 S AA1 N
+taba	T AA0 B AA1
+tabi	T AA0 B IY1
+tabi-tabi	T AA0 B IY2 T AA0 B IY1
+tabo	T AA1 B OW0
+tagal	T AA0 G AA1 L
+tagas	T AA1 G AA0 S
+tahanan	T AA0 H AA1 N AA0 N
+tahi	T AA0 H IY1
+taho	T AA0 H OW1
+tahong	T AA0 H OW1 NG
+tainga	T AA0 IY1 NG AA0
+takam	T AA0 K AA1 M
+takas	T AA1 K AA0 S
+takbo	T AA0 K B OW1
+takdang-aralin	T AA0 K D AA1 NG AA0 R AA0 L IY1 N
+takot	T AA0 K OW1 T
+takot	T AA1 K OW0 T
+tala	T AA1 L AA0
+talaga	T AA0 L AA0 G AA1
+talento	T AA0 L EH1 N T OW0
+talikod	T AA0 L IY1 K OW0 D
+talon	T AA0 L OW1 N
+tama	T AA1 M AA0
+tambo	T AA0 M B OW1
+tao	T AA1 OW0
+taon	T AA0 OW1 N
+taong	T AA1 OW0 NG
+tapang	T AA1 P AA0 NG
+tapos	T AA0 P OW1 S
+tara	T AA0 R AA1
+tarlac	T AA0 R L AA1 K
+tasa	T AA1 S AA0
+tasa	T AA0 S AA1
+tataas	T AA2 T AA0 AA1 S
+tataba	T AA0 T AA0 B AA1
+tatay	T AA1 T AY0
+tatlo	T AA0 T L OW1
+tatlong	T AA0 T L OW1 NG
+tatsulok	T AA0 T S UW0 L OW1 K
+tauhan	T AA0 UW1 H AA0 N
+tawa	T AA1 W AA0
+tawag	T AA1 W AA0 G
+tawang-tawa	T AA0 W AA2 NG T AA0 W AA1
+taxi	T AA1 K S IY0
+taya	T AA0 Y AA1
+tayo	T AA1 Y OW0
+tayo	T AA0 Y OW1
+tayong	T AA1 Y OW0 NG
+telebisyon	T EH0 L EH0 B IY0 SH OW1 N
+tenga	T EH1 NG AA0
+tesa	T EH1 S AA0
+tibok	T IY0 B OW1 K
+tigil	T IY1 G IY0 L
+tila	T IY1 L AA0
+timba	T IY0 M B AA1
+timog	T IY1 M OW0 G
+tinahi	T IY0 N AA0 H IY1
+tinapay	T IY0 N AA1 P AY0
+tingting	T IY0 NG T IY1 NG
+tita	T IY1 T AA0
+titiisin	T IY2 T IY0 IY0 S IY1 N
+tito	T IY1 T OW0
+tiyan	T IY0 Y AA1 N
+tomi	T OW1 M IY0
+tomi	T OW1 M IY0
+totoo	T OW0 T OW0 OW1
+totoy	T OW1 T OY0
+tubig	T UW1 B IY0 G
+tubo	T UW1 B OW0
+tubo	T UW0 B OW1
+tuhod	T UW1 H OW0 D
+tuka	T UW0 K AA1
+tula	T UW0 L AA1
+tulad	T UW1 L AA0 D
+tulo	T UW1 L OW0
+tulog	T UW0 L OW1 G
+tulog	T UW1 L OW0 G
+tumaas	T UW0 M AA0 AA1 S
+tumakas	T UW0 M AA1 K AA0 S
+tumakbo	T UW0 M AA0 K B OW1
+tumalon	T UW0 M AA0 L OW1 N
+tumama	T UW0 M AA1 M AA0
+tumango-tango	T UW0 M AA0 NG OW1 T AA0 NG OW1
+tumatakbo	T UW0 M AA2 T AA0 K B OW1
+tumatayo	T UW0 M AA2 T AA0 Y OW1
+tumawa	T UW0 M AA1 W AA0
+tumayo	T UW0 M AA0 Y OW1
+tumubo	T UW0 M UW1 B OW0
+tumutulong	T UW0 M UW0 T UW1 L OW0 NG
+tunog	T UW0 N OW1 G
+tuta	T UW1 T AA0
+tuto	T UW1 T OW0
+tutulungan	T UW2 T UW0 L UW1 NG AA0 N
+tuyo	T UW0 Y OW1
+ubas	UW1 B AA0 S
+ube	UW1 B EH0
+ubo	UW0 B OW1
+ubod	UW1 B OW0 D
+ubos	UW0 B OW1 S
+ulam	UW1 L AA0 M
+ulan	UW0 L AA1 N
+ulap	UW1 L AA0 P
+ulit	UW0 L IY1 T
+ulitin	UW0 L IY1 T IY0 N
+ulo	UW1 L OW0
+umaambon	UW0 M AA2 AA0 M B OW1 N
+umahon	UW0 M AA1 H OW0 N
+umalis	UW0 M AA0 L IY1 S
+umiiyak	UW0 M IY2 IY0 Y AA1 K
+umubo	UW0 M UW0 B OW1
+umubos	UW0 M UW1 B OW0 S
+umulan	UW0 M UW0 L AA1 N
+umuubo	UW0 M UW2 UW0 B OW1
+unan	UW1 N AA0 N
+unggoy	UW0 NG G OY1
+upo	UW0 P OW1
+upo	UW1 P OW0
+upuan	UW0 P UW1 AA0 N
+usa	UW0 S AA1
+usisa	UW0 S IY1 S AA0
+uso	UW1 S OW0
+utos	UW1 T OW0 S
+uulitin	UW2 UW0 L IY1 T IY0 N
+van	V AA1 N
+vet	V EH1 T
+vic	V IY1 K
+victor	V IY0 K T OW1 R
+vilma	V IY1 L M AA0
+vinta	V IY1 N T AA0
+visayas	V IY0 S AA1 Y AA0 S
+wakas	W AA0 K AA1 S
+wala	W AA0 L AA1
+walang	W AA0 L AA1 NG
+wali	W AA1 L IY0
+waling-waling	W AA1 L IY0 NG W AA1 L IY0 NG
+walis	W AA0 L IY1 S
+walo	W AA0 L OW1
+wasak	W AA0 S AA1 K
+wasak	W AA1 S AA0 K
+watawat	W AA0 T AA1 W AA0 T
+wax	W AA1 K S
+wela	W EH1 L AA0
+welga	W EH1 L G AA0
+wika	W IY1 K AA0
+wilma	W IY1 L M AA0
+yamot	Y AA0 M OW1 T
+yelo	Y EH1 L OW0
+yema	Y EH1 M AA0
+yeso	Y EH1 S OW0
+yoyo	Y OW1 Y OW0
+zambales	Z AA0 M B AA1 L EH0 S
+zigzag	Z IY1 G Z AA0 G
+zipper	Z IY1 P EH0 R
+zoren	Z OW1 R EH0 N
+zumba	Z UW1 M B AA0
