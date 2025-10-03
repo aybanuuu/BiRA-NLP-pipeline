@@ -19,11 +19,11 @@ The BiRA device is a fully functional system in a tablet form factor that consis
 
 Software-wise, it uses a BiLSTM model with CTC loss optimization for analyzing pronunciation in conjunction with a pronunciation lexicon and a [Levenshtein](https://pypi.org/project/python-Levenshtein/) alignment algorithm that evaluates the learner's pronunciation. The whole ML pipeline is contained inside a Tkinter GUI, which also contains functions such as OCR to scan words being studied for pronunciation, a gamified UI that classifies words based on difficulty, and opportunities to study the pronunciation of a word or utterance first before trying out the AI evaluation model.
 
-This repository will only contain the project's NLP pipeline, specifically dataset augmentation, [MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/index.html) acoustic model (for phoneme transcriptions), phoneme lexicon, and the full ML pipeline. Datasets and model metric results will also be described, but the dataset and model themselves will not be made publicly available due to the agreement made by the researchers and the speaker who lent their voices for this project regarding privacy concerns.
+This repository will only contain the project's NLP pipeline, specifically dataset augmentation, [MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/index.html) acoustic model (for phoneme transcriptions), phoneme lexicon, and the full ML pipeline, which were all done inside Google Colab. Datasets and model metric results will also be described, but the dataset and model themselves will not be made publicly available due to the agreement made by the researchers and the speaker who lent the voices for this project's speech recordings regarding privacy concerns.
 
 
 ## Dataset
-The main dataset consists of 18,632 files, with one (1) female adult speaker lending her voice and three (3) pseudo speakers simulating child voices, all based on the female adult speaker's voice. This was done instead of obtaining actual child voices due to the lack of datasets publicly available and time constraints.
+The main dataset consists of 18,632 files, with one (1) female adult speaker lending her voice and three (3) pseudo speakers simulating child voices, all based on the female adult speaker's voice. This was done instead of obtaining actual child voices due to the lack of datasets publicly available, difficulty in finding and reaching out to potential speakers, and time constraints.
 
 The original recording was recorded in a moderately quiet environment using a microphone similar to what the BiRA device uses. To add augmented pseudo-child speakers, the original audio files were augmented by doing a combination of pitch and formant shifting in Python's [PyWorld](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) library. Resources for the voice recording come from DepEd's Marungko Booklets being used for teaching reading inside the classroom (used with permission).
 
@@ -64,7 +64,8 @@ For BR02 to BR04 (pseudo-child speakers):
 Another dataset was used for training the MFA Acoustic Model to obtain phoneme transcriptions. This dataset uses only the original speaker's audio files with less aggressive augmentation (+1 and -1 semitones, 0.95x to 1.05x time stretch, 15dB noise), totalling 5 hrs 19 mins 58 secs.
 
 **Pronunciation lexicon**  
-The lexicon for the dataset was created by using a modified subset of the FlipVox pronunciation lexicon version 1.0 ([F7Xdict](https://github.com/flipvox/F7Xdict) repository), which is based on the format of the CMU pronunciation dictionary. The lexicon contains 1,332 words.
+The lexicon for the dataset was created by using a modified subset of the FlipVox pronunciation lexicon version 1.0 ([F7Xdict](https://github.com/flipvox/F7Xdict)), which is based on the format of the CMU pronunciation dictionary. The lexicon contains 1,332 words.
+
 ## ML Pipeline
 The BiRA project implements a full ML pipeline for speech recognition and pronunciation evaluation:
 
@@ -89,9 +90,9 @@ The BiRA project implements a full ML pipeline for speech recognition and pronun
 | # of Mel Filterbanks  | 26 |
 
 **Model Training & Testing**  
-   - **Model Architecture**: BiLSTM-CTC (41 input layers, 128 hidden layers, 44 output layers) with dropout regularization.  
+   - **Model Architecture**: BiLSTM-CTC (41 input layers, 128 hidden layers, 44 output layers) with dropout regularization using [PyTorch](https://docs.pytorch.org/docs/stable/index.html).  
    - **Training Loop**: CTC loss with entropy regularization, gradient clipping, warmup scheduling.  
-   - **Validation & Testing**: Evaluates with Levenshtein distance and compute Phoneme Error Rate (PER).  
+   - **Validation & Testing**: Evaluates with Levenshtein distance and compute Phoneme Error Rate (PER), distance accuracy, precision, recall, and f1-score.  
    - A **70-15-15 split** was done for training, validation, and testing.
 
 **Pronunciation Evaluation**  
@@ -104,7 +105,7 @@ The BiRA project implements a full ML pipeline for speech recognition and pronun
 
 ## Results
 
-Three BiLSTM-CTC models with varying hyperparameters (dropout, learning rate, batch size, weight decay, regularization) were evaluated. Further testing of more models was not possible due to time constraints in the completion of this project.  
+Three BiLSTM-CTC models with varying hyperparameters (dropout, learning rate, batch size, weight decay, regularization) were evaluated. Further testing of hyperparameters was not possible due to time constraints in the completion of this project.  
 
 Key results (test set) are summarized below:
 
@@ -114,7 +115,7 @@ Key results (test set) are summarized below:
 | M2    | 0.3     | 1e-4          | 8         | 17.66% | 82.34%    | 70.31%      | 63.94%  | 65.86%     |
 | M3    | 0.4     | 1e-3          | 16         | 16.37% | 83.63%    | 74.78%      | 66.69%   | 68.81%    |
 
-The hyperparameters used for each model were:
+The hyperparameters used (aside from Dropout, LR, Batch Size) for each model were:
 
 | Model  | LR Warmup | LR Decay | Weight Decay (AdamW) | Entropy | No. of Epochs |
 |---------|-----------|----------|--------------|---------|---------------|
@@ -127,7 +128,7 @@ The hyperparameters used for each model were:
 Additional visualizations (see [`results/`](results/)):
 - **Confusion Matrix** 
 - **Phoneme-level F1 Scores** 
-- **Training/Validation Loss Curves** 
+- **Training/Validation Loss Curves**  
 *Note: For the accuracy metric, the Levenshtein edit distance accuracy (100 - PER) was considered instead of classification accuracy (sklearn) since the researchers were focused more on actual use case accuracy (finding the distance between the reference and predicted phoneme) than classification accuracy. Kindly disregard sklearn accuracy in the **phoneme_classification_report** CSV files.*
 
 Overall, the best-performing model (M3) achieved:  
@@ -136,9 +137,9 @@ Overall, the best-performing model (M3) achieved:
 
 **Things to consider:**
 - The relatively large accuracy-precision-recall-f1 gap is to be expected since the custom dataset has limited variability, having only 1 real speaker and three artificial child speakers.
-- The Marungko booklets contain common Filipino words that are easy to pronounce for Grade 1 learners. Therefore, it has limited phoneme variability on phonemes commonly found in more complex Filipino words (as evidenced by the phoneme-level f1 scores).
-- Since phoneme AA (IPA: a) is the most common phoneme in the Filipino language, differentiation between stress symbols can be potentially challenging (as evidenced by the confusion matrix).
-- Despite these limitations, the model and device performed well on real-world scenarios as assessed inside a classroom setting by the researchers and users.
+- The Marungko booklets contain common Filipino words that are easy to pronounce for Grade 1 learners. Therefore, it has limited phoneme variability on phonemes commonly found in more complex Filipino words (as evidenced by the phoneme-level f1 scores bar graph found in [`results/`](results/)).
+- Since phoneme AA (IPA: a) is the most common phoneme in the Filipino language, differentiation between stress symbols can be potentially challenging (as evidenced by the confusion matrices in [`results/`](results/)).
+- Despite these limitations, the model and device performed well on real-world scenarios as assessed inside a classroom setting by the researchers and users during the actual classroom testing phase.
 
 **Points of Improvement**  
 With these results and considerations, the model can be improved by:
@@ -150,12 +151,15 @@ With these results and considerations, the model can be improved by:
 ## Acknowledgements
 
 This project was developed as part of the Capstone Project at Colegio de Muntinlupa.  
-We would like to thank our adviser, Engr. Tristan Jay Calaguas, as well as Dr. Cyd Laurence Santos and Engr. Ricrey Marquez, for guidance throughout the project.  
+  
+We would like to thank our adviser, Engr. Tristan Jay Calaguas, as well as Dr. Cyd Laurence Santos and Engr. Ricrey Marquez, for their guidance throughout the project.  
 
 Special thanks to my teammates:  
 - Lord Brix Pimentel for dataset collection, noise reduction, and paper documentation
 - Michael John Luis Ramirez for hardware integration and system prototyping
 
-We also thank Federico Ang for making his FlipVox pronunciation lexicon repository (F7Xdict) publicly available.
+We would also like to thank the speaker for lending her voice recordings, and DepEd for allowing us to conduct our testing phase of the device.
+
+We also thank Federico Ang for making his FlipVox pronunciation lexicon repository publicly available.
 
 For additional inquiries regarding this project or if you want to point out any issues, kindly reach out to me via email found in my profile.
